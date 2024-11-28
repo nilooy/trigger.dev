@@ -1,5 +1,13 @@
 # @trigger.dev/sdk
 
+## 3.3.1
+
+### Patch Changes
+
+- Fixed the missing icons in trigger spans ([#1506](https://github.com/triggerdotdev/trigger.dev/pull/1506))
+- Updated dependencies:
+  - `@trigger.dev/core@3.3.1`
+
 ## 3.3.0
 
 ### Minor Changes
